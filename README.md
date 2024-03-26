@@ -1,5 +1,5 @@
 # Sensory-perception-cancer
-# Create heatnap of hierarchical cluster analysis on R
+# Create heatmap of hierarchical cluster analysis on R
 # after loading the file and creating the matrix "mat"
 
 pheatmap(mat,
